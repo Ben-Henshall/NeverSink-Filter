@@ -1,4 +1,76 @@
 ----------------------------------
+NeverSink's itemfilter - version 5.4 - Abyss League Hype
+----------------------------------
+
+- Adjusted www.FilterBlade.xyz to work with all the new changes (maps, abyss jewels, shaper, elder items, new divination cards...)
+
+- Added some goodies to www.FilterBlade.xyz to the Customizer and Loot Simulator :)
+
+- Adjusted the Chancing tier list: "Ebony Tower Shield" (Tukohama's) "Glorious Plate" ("Kaom's Heart") "Gold Amulet" (Bisco's) "Rawhide Tower Shield" (Lycosidae - SPIDER SHIELD) "Sorcerer Boots" (Skyforth) "Full Wyrmscale" (Belly of the Beast)
+
+- Added Shaper/Elder Item Treatment - 2 tiers (One for interesting "shelder" Items (ilvl 84 great bases, atlas, stygians etc., top crafting bases) and one for "all other "shelder" items"). Shaper and elder items are treated the same for now ("shelder")
+
+- Added Abyss Jewel Treatment with extra rulesets for ILVL 84 abyss jewels
+
+- Added Stygian Vice belts with extra rulesets for 75+ rare stygs and 84+ stygians
+
+- Added all the new divination cards
+
+- Minor updates to the leveling section
+
+- Adjusted all map tiers to work with the new "ShapedMap" mod
+
+- Adjusted the crafting and T1/T2 rares to have a slightly higher focus on sceptres. Also did some minor adjustments, removed some T2 rares.
+
+- Retiered all Divination cards [NOTE: Economy data based upon mix from early Harbinger economy and some predictions, based on patch notes and experience from past leagues. I'll update the filter ASAP to reflect the real economy.]
+
+- Retiered all uniques [NOTE: Economy data based upon mix from early Harbinger economy and some predictions, based on patch notes and experience from past leagues. I'll update the filter ASAP to reflect the real economy.]
+
+- Gave annulment orb a more permanent place.
+
+- Several other small improvements
+
+----------------------------------
+NeverSink's itemfilter - version 5.3 - Further Levelling Optimizations! FilterBlade goodies: Filter Sharing/Cloud Storing, Customizer Improvements!
+----------------------------------
+
+- Fine-tuned the levelling section based upon user feedback and my HC Turmoil league experience!
+
+- 3-links are now more strict.
+
+- Reduced the number of magic trinkets later on.
+
+- Added ruby/topaz rings to the early high highlight rings sections (for the +1 caster recipes)
+
+- Early Life flasks are highlighted as good for one additional level
+
+- The levelling section shows less magic items now
+
+- T2 endgame trinkets are now correctly hidden on higher strictness versions.
+
+- Very slightly updated the divination cards and uniques (barely anything changed, economy is super stale)
+
+- Minor structure improvements
+
+**FilterBlade changelog:**
+
+- [**Save State Sharing!**][**Cloud Saving**] On the Save&Load screen, you can now publish your save on our server and also let others access it! We're going to add a "top subversion" table soon too! Streamers can use this to share their subversion ("normal" users can do the same).
+
+- [**Resource Minimizer**]: This should improve performance by A LOT! It also fixes a weird loading bugs where files were not loaded correctly.
+
+- [**Customizer Levelling Section Improvements**]: Simplified several settings and made everything much more intuitive and well explained.
+
+- Added the Item ReCreation tool below the loot simulator. use Ctr+C to copy an in-game item and paste it into the box to re-create it in filterBlade and directly edit the rule it's been matched by + see info about the rule and WHY it matched the item. great for cases where you ask yourself: "why does the filter highlight this item?" -> Ctrl+C -> paste -> "oh, it's a warband item, nice, let me quickly edit some of those colors, ..."
+
+*Notes about the server side saving: we don't care and don't collect any personal data (merely a footprint to prevent users from spamming saves). However, we do reserve the right to delete and analyze any save-states to find bugs in the system and to improve the website. You also don't technically *own* the saves. This section is highly experimental. If anything breaks let us now. You can still use the local save option too!*
+
+----------------------------------
+NeverSink's itemfilter - version 5.21 - Added dropsounds for 4-links while leveling!
+----------------------------------
+
+- Added dropsounds for 4-links while leveling :)
+
+----------------------------------
 NeverSink's itemfilter - version 5.2 - Racing Update, completely new levelling section, HUGE FilterBlade update
 ----------------------------------
 
