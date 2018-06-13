@@ -992,6 +992,24 @@ Show # $x->Atlas->T2 %TB-Atlas-Bases %D2
 # Example, to add Agate amulet:
 # BaseType "Sorcerer Boots"
 
+Show # $Chancing B-T1-Chancing %D4
+    BaseType "Sapphire Flask"
+    Rarity Normal
+    SetFontSize 38
+    SetTextColor 255 255 255 255         # TEXTCOLOR:        Normal Items: Strong Highlight
+    SetBorderColor 0 210 0 210           # BORDERCOLOR:      T1 Chancing
+    PlayAlertSound 7 300                 # DROPSOUND:        T1 chancing items
+    Corrupted False
+
+Show # $Chancing B-T1-Chancing %D4
+#	BaseType "Siege Axe"
+	BaseType "Sadist Garb"
+	Rarity Normal
+	SetFontSize 38
+	SetTextColor 255 255 255 255         # TEXTCOLOR:	 Normal Items: Strong Highlight
+	SetBorderColor 0 210 0 210           # BORDERCOLOR:	 T1 Chancing
+	Corrupted False
+
 #Show # $Chancing B-T1-Chancing %D4
 #	BaseType "Glorious Plate" "Close Helmet" "Occultist's Vestment"
 #	Rarity Normal
@@ -1009,13 +1027,12 @@ Show # $x->Atlas->T2 %TB-Atlas-Bases %D2
 #	SetBorderColor 0 150 0 150           # BORDERCOLOR:	 T2 Chancing
 #	SetFontSize 36
 
-Show # $Chancing %TB-T2-Chancing %D2
-	Corrupted False
-	BaseType "Ebony Tower Shield" "Glorious Plate" "Gold Amulet" "Rawhide Tower Shield" "Sorcerer Boots"
-	Rarity Normal
-	SetFontSize 36
-	SetTextColor 255 255 255 255         # TEXTCOLOR:	 Cosmetic White
-	SetBorderColor 0 150 0 150           # BORDERCOLOR:	 Chancing
+#Show # $Chancing %TB-T2-Chancing %D2
+#	Corrupted False
+#	BaseType "Ebony Tower Shield" "Glorious Plate" "Gold Amulet" "Rawhide Tower Shield" "Sorcerer Boots"
+#	Rarity Normal
+#	SetTextColor 255 255 255 255         # TEXTCOLOR:	 Normal Items: Strong Highlight
+#	SetBorderColor 0 150 0 150           # BORDERCOLOR:	 T2 Chancing
 
 #------------------------------------
 #   [0610] FLASKS (Endgame rules)
@@ -3451,7 +3468,7 @@ Show # $Div->T1 %TB-Divination-T1
 
 Show # $Div->T2 %TB-Divination-T2
 	Class "Divination"
-	BaseType "Chaotic Disposition" "Last Hope" "Perfection" "Saint's Treasure" "The Artist" "The Brittle Emperor" "The Cartographer" "The Dapper Prodigy" "The Dreamer" "The Enlightened" "The Ethereal" "The Hoarder" "The Hunger" "The Professor" "The Queen" "The Risk" "The Sephirot" "The Undaunted" "The Undisputed" "The Valkyrie" "The Vast" "The Void" "The Wolf"
+	BaseType "Earth Drinker" "Chaotic Disposition" "Last Hope" "Perfection" "Saint's Treasure" "The Artist" "The Brittle Emperor" "The Cartographer" "The Dapper Prodigy" "The Dreamer" "The Enlightened" "The Ethereal" "The Hoarder" "The Hunger" "The Professor" "The Queen" "The Risk" "The Sephirot" "The Undaunted" "The Undisputed" "The Valkyrie" "The Vast" "The Void" "The Wolf"
 	SetFontSize 45
 	SetTextColor 0 0 0 255               # TEXTCOLOR:	 High Special Base
 	SetBorderColor 200 200 0 255         # BORDERCOLOR:	 Aspect: 83plus
